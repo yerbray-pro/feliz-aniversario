@@ -7,10 +7,14 @@ public class Main {
         v1.setPlaca("ABC123");
         v1.setMarca("Toyota");
         v1.setModelo("Corolla");
-        v1.setKilometraje(15000);
+        v1.setKilometraje(1500);
 
       
-        Vehiculo v2 = new Vehiculo("XYZ789", "Nissan", "Sentra", 20000);
+        Vehiculo v2 = new Vehiculo();
+        v2.setPlaca("XYZ789");
+        v2.setMarca("Nissan");
+        v2.setModelo("Sentra");
+        v2.setKilometraje(2000);
 
      
         v1.setKilometraje(-1000);
