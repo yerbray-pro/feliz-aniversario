@@ -5,7 +5,7 @@ body {
   margin: 0;
 }
 :root {
-  --gjs-t-color-primary: #a02757;
+  --gjs-t-color-primary: #9d13d3;
   --gjs-t-color-secondary: #f806d8;
   --gjs-t-color-accent: #ff120e;
   --gjs-t-color-success: #2e7d32;
@@ -23,14 +23,14 @@ html {
   font-family: "Lora", serif;
 }
 .gjs-t-h1 {
-  color: #ff004c;
+  color: #d4009f;
   font-size: 48px;
   line-height: 1.2;
   font-family: "Playfair Display", serif;
   letter-spacing: 0.7px;
 }
 .gjs-t-h2 {
-  color: #a3224a;
+  color: #9d13d3;
   font-size: 32px;
   line-height: 1.3;
   font-family: "Playfair Display", serif;
